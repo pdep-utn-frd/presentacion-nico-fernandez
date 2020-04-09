@@ -1,5 +1,8 @@
 ## Nicolás Fernández
 ![](http://frd.cvg.utn.edu.ar/pluginfile.php/16017/user/icon/snap/f1?rev=324058)
+
+### Legajo: 10432
+
 ### 23 años
 
 Estudio Ingeniería en Sistemas de Información y trabajo como profesor de informática en la escuela primaria.
