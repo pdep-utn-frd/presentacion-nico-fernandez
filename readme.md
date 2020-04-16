@@ -3,6 +3,8 @@
 
 ### Legajo: 10432
 
+### Zárate
+
 ### 23 años
 
 Estudio Ingeniería en Sistemas de Información y trabajo como profesor de informática en la escuela primaria.
